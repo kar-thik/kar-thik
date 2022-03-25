@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm `Karthik` I mostly spend my days bashing things on a keyboard, apparently good things come out. I've had the opprtunity to work on a really diverse set of problems in analog antenna design, speech processing, embedded systems, autonoumous UAVs, computer vision and machine learning among others. I'm currently based out of the DC metropolitan area.
-
-I enjoy working on hobby projects and participating in hackathons. Feel free to connect with me on LinkedIn if you'd like to collaborate on projects. 
+I'm `Karthik` I mostly spend my days bashing things on a keyboard, apparently good things come out. I've had the opprtunity to work on a really diverse set of problems in analog antenna design, speech processing, embedded systems, autonoumous UAVs, computer vision and machine learning among others. 
